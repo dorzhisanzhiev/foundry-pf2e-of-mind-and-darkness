@@ -1,0 +1,128 @@
+{
+  "id": "of-mind-and-darkness",
+  "title": "Of Mind and Darkness",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "blade-of-the-self-class-features",
+      "label": "Blade of the Self - Class Features",
+      "path": "packs/blade-of-the-self-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "blade-of-the-self-feats",
+      "label": "Blade of the Self - Feats",
+      "path": "packs/blade-of-the-self-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "blade-of-the-self-effects",
+      "label": "Blade of the Self - Effects",
+      "path": "packs/blade-of-the-self-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lightless-void-spells",
+      "label": "Lightless Void - Spells",
+      "path": "packs/lightless-void-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lightless-void-feats",
+      "label": "Lightless Void - Feats",
+      "path": "packs/lightless-void-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lightless-void-class-features",
+      "label": "Lightless Void - Class Features",
+      "path": "packs/lightless-void-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "blade-of-the-self-journal",
+      "label": "Blade of the Self - Journal",
+      "path": "packs/blade-of-the-self-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lightless-void-journal",
+      "label": "Lightless Void - Journal",
+      "path": "packs/lightless-void-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Of Mind and Darkness",
+      "sorting": "a",
+      "color": "#4b0082",
+      "packs": [
+        "blade-of-the-self-class-features",
+        "blade-of-the-self-feats",
+        "blade-of-the-self-effects",
+        "blade-of-the-self-journal",
+        "lightless-void-class-features",
+        "lightless-void-spells",
+        "lightless-void-feats",
+        "lightless-void-effects",
+        "lightless-void-journal"
+      ],
+      "folders": []
+    }
+  ],
+  "authors": [
+    {
+      "name": "Dorji Sanjiev",
+      "discord": "Pyrurge",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/dorzhisanzhiev/foundry-pf2e-of-mind-and-darkness",
+  "manifest": "https://raw.githubusercontent.com/dorzhisanzhiev/foundry-pf2e-of-mind-and-darkness/master/module.json",
+  "download": "https://github.com/dorzhisanzhiev/foundry-pf2e-of-mind-and-darkness/archive/refs/heads/main.zip"
+}
